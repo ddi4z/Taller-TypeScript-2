@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #2d8f98;
+}
+
+.table {
+    margin: 30px auto;
+}
+
+p {
+    margin: 30px auto;
+}
+
+
+
+.show-card {
+    color:  #0d86ff ;
+    cursor: pointer;
+}
+
+#details {
+    margin: 30px auto;
+}
